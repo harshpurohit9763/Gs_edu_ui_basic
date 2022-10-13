@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775482805188",
+    "project_id": "gs-education-2022",
+    "storage_bucket": "gs-education-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775482805188:android:3585f947dbf5b6a46ef291",
+        "android_client_info": {
+          "package_name": "com.example.gs_edu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775482805188-5s6b9prqsfu2hbdfs95r90nd9tnjr8iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7huhLrhz_QWkz94gtJcGJLquH5745iYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775482805188-5s6b9prqsfu2hbdfs95r90nd9tnjr8iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
